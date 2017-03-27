@@ -8,7 +8,7 @@
     }
 
 安装
-cordova plugin add cordova-plugin-reverseGeocoding
+cordova plugin add /Users/apple/Desktop/cordova-plugin-reverseGeocoding
 
 支持的平台
 iOS
