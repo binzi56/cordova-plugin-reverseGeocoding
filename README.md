@@ -15,7 +15,7 @@ cordova plugin add /Users/apple/Desktop/cordova-plugin-reverseGeocoding
 ```
 
 ### 支持的平台
-iOS
+`iOS`
 
 ### 使用示例
 ```
