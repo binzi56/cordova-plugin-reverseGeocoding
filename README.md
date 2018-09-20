@@ -1,5 +1,5 @@
 # cordova-plugin-reverseGeocoding
-一个OC版的逆地理编码插件
+一个OC版的cordova逆地理编码插件
 
 ### 该插件直到deviceready事件发生后才可用;
 ```
@@ -10,7 +10,9 @@
 ```
 
 ### 安装
+```
 cordova plugin add /Users/apple/Desktop/cordova-plugin-reverseGeocoding
+```
 
 ### 支持的平台
 iOS
