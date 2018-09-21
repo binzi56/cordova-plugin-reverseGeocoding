@@ -1,7 +1,7 @@
 # cordova-plugin-reverseGeocoding
 一个OC版的cordova逆地理编码插件
 
-### 该插件直到deviceready事件发生后才可用;
+### 该插件直`deviceready`事件发生后才可用;
 ```
    document.addEventListener("deviceready", onDeviceReady, false);
     function onDeviceReady() {
